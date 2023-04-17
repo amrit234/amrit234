@@ -2,7 +2,7 @@
 - 👀 I’m interested in ..codeing.
 - 🌱 I’m currently learning ..python.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Email id: amrit.21bce7486@vitapstudent.ac.in
+- 📫 How to reach me ... Email id: subhashamrit401@gmail.com
 
 
 <!---
