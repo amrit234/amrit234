@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @amrit234
-- 👀 I’m interested in ..codeing.
+- 👀 I’m interested in ..coding.
 - 🌱 I’m currently learning ..python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email id: subhashamrit401@gmail.com
