@@ -1,8 +1,20 @@
-- 👋 Hi, I’m @amrit234
-- 👀 I’m interested in ..coding.
-- 🌱 I’m currently learning ..python.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... Email id: subhashamrit401@gmail.com
+👋 Hi there! I'm Amrit Subhash 
+
+🌟 Data Scientist | AI/ML Enthusiast
+
+📚 Advanced-level skills in Python 🐍, R 📊, and Java ☕
+
+💼 Currently working in the exciting world of Data Science and AI/ML
+
+🔍 Passionate about extracting insights from data, building intelligent systems, and solving real-world problems
+
+🚀 Let's connect and collaborate on exciting data-driven projects!
+
+📫 Reach me at: subhashamrit401@gmail.com
+
+
+#DataScience #MachineLearning #AI #Python #R #Java #DataGeek 📈
+
 
 
 <!---
